@@ -7,6 +7,16 @@ A **Flutter-powered anime diary & dictionary** app that helps you:
 - Generate personalized insights about your anime journey
 
 ---
+## 🖼 Screenshots
+
+<div align="center">
+  <img src="assets/1.png" alt="Loading" width="30%"/>
+  <img src="assets/2.png" alt="home" width="30%"/>
+  <img src="assets/3.png" alt="Analytics" width="30%"/>
+  <img src="assets/4.png" alt="Analytics" width="30%"/>
+</div>
+
+---
 
 ## ✨ Features
 - 📚 **Anime Dictionary** – Offline-first using SQLite database
